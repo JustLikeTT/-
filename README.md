@@ -1,8 +1,8 @@
 ## 1.[Download ChromeDriver](https://chromedriver.storage.googleapis.com/index.html?path=2.41/) ##
-## 2. 開啟chromedriver.exe ##
-## 3. 安裝module ##
+## 2.開啟chromedriver.exe ##
+## 3.安裝module ##
     pip install selenium 
-## 4. 輸入學號及密碼 ##
+## 4.輸入學號及密碼 ##
     username = " 學號 "
     password = " NID密碼 "
 ## 5.輸入想選的課 ##
